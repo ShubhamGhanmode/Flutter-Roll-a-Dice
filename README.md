@@ -3,9 +3,10 @@
 This project aims to build and solidify the foundational skills required for Flutter Development.
 
 ## Concepts Mastered:
-- Understanding the Widget based structure of Flutter app development
-- Understanding usecases of Stateful and Stateless Widgets
-- Adding assets to the app
+- Understanding the Widget based structure of Flutter app development.
+- Understanding use-cases of "Stateful" and "Stateless Widgets".
+- Adding assets to the app.
+- Adding buttons.
 - Writing individual classes into separate dart files for a cleaner and understandable code structure.
 - Adding a Launcher icon file.
 - Finally, using Git to Push this Project into my GitHub repository.
