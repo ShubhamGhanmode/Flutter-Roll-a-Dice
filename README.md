@@ -1,16 +1,28 @@
-# roll_a_dice
+# Roll a Dice
 
-A new Flutter project.
+This project aims to build and solidify the foundational skills required for Flutter Development.
 
-## Getting Started
+## Concepts Mastered:
+- Understanding the Widget based structure of Flutter app development
+- Understanding usecases of Stateful and Stateless Widgets
+- Adding assets to the app
+- Writing individual classes into separate dart files for a cleaner and understandable code structure.
+- Adding a Launcher icon file.
+- Finally, using Git to Push this Project into my GitHub repository.
 
-This project is a starting point for a Flutter application.
+The output of this project can be tested by downloading and installing the release file attatched, or by clicking below link.
+- [App apk release](https://github.com/ShubhamGhanmode/Roll-a-Dice/releases/tag/v1.0.0)
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots:
+### Launcher icon:
+- ![image](https://github.com/ShubhamGhanmode/Roll-a-Dice/assets/35194671/7558d637-ba38-4b6c-a3e2-6193eda141f8)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Loading Screen:
+- ![image](https://github.com/ShubhamGhanmode/Roll-a-Dice/assets/35194671/7c4cf77b-83a0-4c97-957a-b2ceb23f40be)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### App in Action:
+
+- ![image](https://github.com/ShubhamGhanmode/Roll-a-Dice/assets/35194671/2f3404d8-dec6-471e-90d0-9ecc2a250329)
+
+
+
